@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jawwad 👋
 
-<!--
-**sjawwadkhatib/sjawwadkhatib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aviation Management | Researcher | AI & Technology in Airport Passenger Services
 
-Here are some ideas to get you started:
+I hold a Master's degree in Aviation Management from Bahçeşehir University, Istanbul, with a research focus on passenger experience and airport technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research interests lie at the intersection of **aviation, artificial intelligence, passenger experience, and human-centred technology**.
+
+## ✈️ Research Interests
+
+- AI-enabled airport passenger services
+- Human-centred AI in aviation
+- Passenger experience & satisfaction
+- Airport self-service technologies
+- Technology acceptance, trust & perceived control
+- Digital transformation in airports
+
+## 🔬 Current Focus
+
+Exploring how AI can be integrated into airport passenger services while maintaining human fallback, passenger trust, and perceived control across different service situations.
+
+## 🎓 Background
+
+**Master's in Aviation Management**  
+Bahçeşehir University, Istanbul
+
+**B.B.A. Aviation Management**  
+India
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/jawwadkhatib)
